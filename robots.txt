@@ -1,1 +1,1 @@
-Sitemap: https://mroberts1.github.io/fsu-smt-su25/sitemap.xml
+Sitemap: https://mroberts1.github.io/fsu-game-studies-fa25/sitemap.xml
