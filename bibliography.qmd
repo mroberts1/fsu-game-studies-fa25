@@ -1,0 +1,105 @@
+---
+title: "Videogame Music: Select Bibliography"
+---
+
+**Books**
+
+Nathan Altice. *I Am Error: The Nintendo Family Computer / Entertainment System Platform*. MIT Press, 2015.
+
+Cheng, William. *Sound Play: Video Games and the Musical Imagination*. Oxford University Press, 2014.
+
+Collins, Karen. *Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design*. MIT Press, 2008.
+
+Collins, Karen. *Playing with Sound: A Theory of Interacting with Sound and Music in Video Games*. MIT Press, 2013.
+
+Collins, Karen, ed. *From Pac-Man to Pop Music: Interactive Audio in Games and New Media*. Ashgate, 2008.
+
+Connor, Michael. "[The Impossible Music of Black MIDI.](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)" *Rhizome*, 23 September 2013.
+
+Donnelly, K.J., William Gibbons, and Neil Lerner, eds. *Music in Video Games: Studying Play*. Routledge, 2014.
+
+Fritsch, Melanie and Tim Summers, eds. *The Cambridge Companion to Video Game Music*. Cambridge University Press, 2021.
+
+Gibbons, William. *Unlimited Replays: Video Games and Classical Music*. Oxford University Press, 2018.
+
+Kamp, Michiel, Tim Summers, and Mark Sweeney, eds. *Ludomusicology: Approaches to Video Game Music*. Equinox Publishing, 2016.
+
+Kirn, Peter. "[Inside the livecoding algorave movement, and what it says about music.](https://cdm.link/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/)" Create Digital Music (blog), 29 May 2018.
+
+Miller, Kiri. *Playing Along: Digital Games, YouTube, and Virtual Performance*. Oxford University Press, 2012.
+
+Moormann, Peter, ed. *Music and Game: Perspectives on a Popular Alliance*. Springer VS, 2013.
+
+Moseley, Roger. *Keys to Play: Music as a Ludic Medium from Apollo to Nintendo*. University of California Press, 2016.
+
+Nova, Nicolas. [*8-Bit Reggae: Collision and Creolization*](https://volumique.com/shopv2/produit/8-bit-reggae-collision-and-creolization/). Paris: Volumique, 2017.
+
+Phillips, Winifred. *A Composer's Guide to Game Music*. MIT Press, 2014.
+
+Schartmann, Andrew. *Koji Kondo’s Super Mario Bros. Soundtrack* (33⅓). Bloomsbury Academic, 2015.
+
+Summers, Tim. *Understanding Video Game Music*. Cambridge University Press, 2016.
+
+Sweet, Michael. *Writing Interactive Music for Video Games: A Composer's Guide*. Addison-Wesley, 2015.
+
+Szczepaniak, S.M.G. 2014. *The Untold History of Japanese Game Developers: Gold*. Self-published: SMG Szczepaniak.
+
+Tobin, Samuel. *Portable Play in Everyday Life: The Nintendo DS*. New York: Palgrave Macmillan, 2013.
+
+**Articles**
+
+Aoyagi, Hiroshi. "Real-Time Procedural Music Generation from the Periphery: Reconsidering the Role of Game Music in Video Games." *Computer Games Journal* 6, no. 1-2 (2017): 61-73.
+
+Arsenault, Dominic. "Dynamic Range: When Game Studies Meet Software Studies and Platform Studies." *Game Studies* 17, no. 1 (2017).
+
+Atkinson, Sean E. "Soaring Through the Sky: Topics and Tropes in Video Game Music." *Music Theory Online* 25, no. 2 (2019).
+
+Berndt, Axel and Knut Hartmann. "The Functions of Music in Interactive Media." In *Interactive Storytelling*, edited by Ulrike Spierling and Nicolas Szilas, 126-131. Springer, 2008.
+
+Carlsson, Anders. “Chip Music: Low-Tech Data Music Sharing”. In Karen Collins, *From Pac-Man to Pop Music: Interactive Audio in Games and New Media*. Burlington, VT: Ashgate Publishing Company, 2008: 153-62.
+
+Cheng, William. "Role-Playing toward a Virtual Musical Democracy in *The Lord of the Rings Online*." *Ethnomusicology* 56, no. 1 (2012): 31-62.
+
+Collins, Karen. “‘Loops and Bloops’: Music of the Commodore 64 Games”. *Soundscapes* 8 (2006).
+
+Collins, Karen. "An Introduction to Procedural Music in Video Games." *Contemporary Music Review* 28, no. 1 (2009): 5-15.
+
+Cook, Karen M. "Music, History, and Progress in Sid Meier's *Civilization IV*." In *Music in Video Games: Studying Play*, edited by K.J. Donnelly, William Gibbons, and Neil Lerner, 166-182. Routledge, 2014.
+
+Collins, Nick, and Alex McLean. "[Algorave: Live Performance of Algorithmic Electronic Dance Music.](https://zenodo.org/records/1178734)" *Proceedings of the International Conference on New Interfaces for Musical Expression*.
+
+Driscoll, Kevin, and Joshua Diaz. “[Endless Loop: A Brief History of Chiptunes.](http://dx.doi.org/10.3983/twc.2009.0096)” *Transformative Works and Cultures* 2 (2009).
+
+Gibbons, William. "Wrap Your Troubles in Dreams: Popular Music, Narrative, and Dystopia in *Bioshock*." *Game Studies* 11, no. 3 (2011).
+
+Grasso, Julianne. "Music in the Time of Video Games: Spelunking Final Fantasy IV." In *Music in the Time of Video Games*, special issue, *Music and the Moving Image* 13, no. 3 (2020): 41-72.
+
+Huiberts, Sander. "Captivating Sound: The Role of Audio for Immersion in Computer Games." PhD diss., University of Portsmouth, 2010.
+
+Jørgensen, Kristine. "On the Functional Aspects of Computer Game Audio." In *Proceedings of the Audio Mostly Conference*, 48-52. ACM, 2006.
+
+Kamp, Michiel. "Suture and Peritexts: Music Beyond Gameplay and Diegesis." In *Ludomusicology: Approaches to Video Game Music*, edited by Michiel Kamp, Tim Summers, and Mark Sweeney, 73-91. Equinox Publishing, 2016.
+
+McLaren, Malcolm. “8-bit Punk.” *Wired* 11 (2003).
+
+Medina-Gray, Elizabeth. "Meaningful Modular Combinations: Simultaneous Harp and Environmental Music in Two *Legend of Zelda* Games." *Music Theory Online* 20, no. 3 (2014).
+
+Moseley, Roger, and Aya Saiki, “Nintendo’s Art of Musical Play”. In K.J. Donnelly et al., *Music in Videogames: Studying Play*. New York: Routledge, 2014: 51-76.
+
+Munday, Rod. "Music in Video Games." In *Music, Sound and Multimedia: From the Live to the Virtual*, edited by Jamie Sexton, 51-67. Edinburgh University Press, 2007.
+
+Neely, Daniel T. "Ding, Ding! The Commodity Aesthetic of Ice Cream Truck Music". In Sumanth Gopinath and Jason Stanyek, eds., *The Oxford Handbook of Mobile Music Studies*, vol. 2. Oxford: Oxford University Press:, 2014: 146-71.
+
+Payne, Matthew Thomas. "Playing the Déjà-New: 'Plug it in and Play TV Games' and the Cultural Politics of Classic Gaming." In *Playing the Past: History and Nostalgia in Video Games*, edited by Zach Whalen and Laurie N. Taylor, 51-68. Vanderbilt University Press, 2008.
+
+Reale, Steven. "Transcribing Musical Worlds; or, Is *L.A. Noire* a Music Game?" In *Music in Video Games: Studying Play*, edited by K.J. Donnelly, William Gibbons, and Neil Lerner, 77-103. Routledge, 2014.
+
+Summers, Tim. "Epic Texturing in the First-Person Shooter: The Aesthetics of Video Game Music." *The Soundtrack* 5, no. 2 (2012): 131-151.
+
+Tasajärvi, Lassi. “A Brief History of the Demoscene.” In *Demoscene: The Art of Real-Time*. Finland: Even Lake Studios.
+
+Tonelli, Chris. “The Chiptuning of the World: Game Boys, Imagined Travel, and Musical Meaning”. In Samantha Gopinath and Jason Stanyek, eds., *The Oxford Handbook of Mobile Music Studies*. Vol. 2. Oxford: Oxford University Press, 2014: 402-26.
+
+Van Elferen, Isabella. "¡Un Forastero! Issues of Virtuality and Diegesis in Videogame Music." *Music and the Moving Image* 4, no. 2 (2011): 30-39.
+
+Whalen, Zach. "Play Along: An Approach to Videogame Music." *Game Studies* 4, no. 1 (2004).
