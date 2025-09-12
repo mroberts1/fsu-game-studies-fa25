@@ -2,9 +2,7 @@
 title: 'Game Studies Seminar'
 ---
 
-::: {.content-visible when-format="html"}
-
-![](img/europe-8bits3.jpg)
+[![](img/europe-8bits3.jpg){width="95%"}](https://vimeo.com/91011679)
 
 ::: {.column-margin}
 
