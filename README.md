@@ -11,24 +11,36 @@ COMM 4000\
 Fri 5 Sept---Wed 10 Dec 2025\
 Conlon Hall 341\
 [Dr. Martin Roberts](https://mroberts1.github.io)</small>\
-<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ --> [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/)
-<!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
+<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ --> [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) <!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
 
 :::
 
 <!-- :::: {.content-visible when-format="pdf"} -->
+
 <!-- ::: {layout="[[48, -4, 48]]"} -->
+
 <!-- [![](img/polyducks.png){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/) -->
 
 <!-- <small>[Fitchburg State University](https://fitchburgstate.edu)\ -->
+
 <!-- [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\ -->
+
 <!-- COMM 4000\ -->
+
 <!-- 3 credits\ -->
+
 <!-- Fri 5 Sept---Wed 10 Dec 2025\ -->
+
 <!-- Conlon Hall 341\ -->
+
 <!-- [Dr. Martin Roberts](https://mroberts1.github.io)\ -->
-<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ -->
+
+<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ -->
+
+<!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ -->
+
 <!-- ::: -->
+
 <!-- :::: -->
 
 ## Overview
@@ -45,17 +57,16 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 ## Assignments / Evaluation
 
-- **Ludomusicology research report** (open topic) (1,500 words, 6 pages double-spaced, with bibliography, letter grade): 30%
-- **Soundtracks group presentation** (in-class, 2-3 students, 15-20 minutes, with accompanying materials, joint grade): 15%
-- **Soundtrack analysis** (1,000 words / 4 pages double-spaced; due one week after in-class presentation): 20%
-- **Scene report** (1,000 words / 4 pages double-spaced): 20%
-- **Scene report presentation** (in-class): 15%
+-   **Ludomusicology research report** (open topic) (1,500 words, 6 pages double-spaced, with bibliography, letter grade): 30%
+-   **Soundtracks group presentation** (in-class, 2-3 students, 15-20 minutes, with accompanying materials, joint grade): 15%
+-   **Soundtrack analysis** (1,000 words / 4 pages double-spaced; due one week after in-class presentation): 20%
+-   **Scene report** (1,000 words / 4 pages double-spaced): 20%
+-   **Scene report presentation** (in-class): 15%
 
 ## Resources
 
-- [Ludomusicology](https://www.ludomusicology.org/)\
-- [TOPLAP](https://blog.toplap.org/)
-<!-- - [Jahtari](https://jahtari.org/) -->
+-   [Ludomusicology](https://www.ludomusicology.org/)\
+-   [TOPLAP](https://blog.toplap.org/) <!-- - [Jahtari](https://jahtari.org/) -->
 
 ## Schedule
 
@@ -65,77 +76,74 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **Introduction: Ice Cream Music**
 
-- Daniel T. Neely, "[Ding, Ding! The Commodity Aesthetic of Ice Cream Truck Music](pdf/ice-cream-music.pdf)"
+-   Daniel T. Neely, "[Ding, Ding! The Commodity Aesthetic of Ice Cream Truck Music](pdf/ice-cream-music.pdf)"
 
-***
+------------------------------------------------------------------------
 
 *Week 2* F 09/12
 
 **Arcade Soundscapes**
 
-::: {.column-margin}
-
-{{< video https://youtu.be/x6aNPsjNwFo >}}<br><br>
+::: column-margin
+{{< video https://youtu.be/x6aNPsjNwFo >}}
 
 {{< video https://youtu.be/49ZK_EVWIBM >}}
-
 :::
 
-- Andy Hofle, "[Arcade Ambience Project Info](https://arcade.hofle.com/)"
-- Martin Roberts, "['By Pressing Down This Special Key / It Plays A Little Melody'](https://mroberts1.github.io/jaspm-2012/)"
+-   Andy Hofle, "[Arcade Ambience Project Info](https://arcade.hofle.com/)"
+-   Martin Roberts, "['By Pressing Down This Special Key / It Plays A Little Melody'](https://mroberts1.github.io/jaspm-2012/)"
 
-***
+------------------------------------------------------------------------
 
 *Week 3* F 09/19
 
 **Afterlives of Mario**
 
-- Andrew Schartmann, *Koji Kondo’s Super Mario Bros. Soundtrack*
-- "[The Ludomusicology Research Group](pdf/ludomusicology-sweeney.pdf)" (interview with Mark Sweeney)
-- [Ludomusicology](https://www.ludomusicology.org/) website
+-   Andrew Schartmann, *Koji Kondo’s Super Mario Bros. Soundtrack*
+-   "[The Ludomusicology Research Group](pdf/ludomusicology-sweeney.pdf)" (interview with Mark Sweeney)
+-   [Ludomusicology](https://www.ludomusicology.org/) website
 
-***
+------------------------------------------------------------------------
 
 *Week 4* F 09/26
 
 **Toys**
 
-- Roger Moseley and Aya Saiki, “Nintendo’s Art of Musical Play”
+-   Roger Moseley and Aya Saiki, “Nintendo’s Art of Musical Play”
 
 **Soundtracks group 1**
 
-***
+------------------------------------------------------------------------
 
 *Week 5* F 10/03
 
 **MIDI**
 
-::: {.column-margin}
+::: column-margin
 <br><br><br><br>
 
 {{< video https://youtu.be/eQSAwuRf-Ng >}}
-
 :::
 
-- Winifred Philips, "Interactive Music in Games: Music Data" (in *A Composer's Guide to Game Music*)
-- Thom Holmes, Thom, and Terence M. Pender, "MIDI" in *Electronic and Experimental Music: Technology, Music, and Culture*
-- Peter Kirn, "[MIDI Piano Roll Turned Into Platformer: Adventures of General MIDI](https://cdm.link/midi-piano-roll-turned-platformer-adventures-general-midi/)" (*Create Digital Music*, 27 May 2014)
+-   Winifred Philips, "Interactive Music in Games: Music Data" (in *A Composer's Guide to Game Music*)
+-   Thom Holmes, Thom, and Terence M. Pender, "MIDI" in *Electronic and Experimental Music: Technology, Music, and Culture*
+-   Peter Kirn, "[MIDI Piano Roll Turned Into Platformer: Adventures of General MIDI](https://cdm.link/midi-piano-roll-turned-platformer-adventures-general-midi/)" (*Create Digital Music*, 27 May 2014)
 
 **Soundtracks group 2**
 
-***
+------------------------------------------------------------------------
 
 *Week 6* F 10/10
 
 **Indie Game Music**
 
-- [Jim Guthrie](https://jimguthrie.bandcamp.com/)
-- [Lena Raine](https://radicaldreamland.bandcamp.com/)
-- [Will Bedford](https://willbedford.bandcamp.com/)
+-   [Jim Guthrie](https://jimguthrie.bandcamp.com/)
+-   [Lena Raine](https://radicaldreamland.bandcamp.com/)
+-   [Will Bedford](https://willbedford.bandcamp.com/)
 
 **Soundtracks group 3**
 
-***
+------------------------------------------------------------------------
 
 *Week 7* F 10/17
 
@@ -143,25 +151,25 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **Commodore**
 
-- Collins, Karen. “‘Loops and Bloops’: Music of the Commodore 64 Games”
-- [HVSC](https://www.hvsc.c64.org/) website
-- Documentary: *Viva Amiga*
-- cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
+-   Collins, Karen. “‘Loops and Bloops’: Music of the Commodore 64 Games”
+-   [HVSC](https://www.hvsc.c64.org/) website
+-   Documentary: *Viva Amiga*
+-   cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
 
 **Soundtracks group 4**
 
-***
+------------------------------------------------------------------------
 
 *Week 8* F 10/24
 
 **Famicom**
 
-- Nathan Altice, selected chs. from *I Am Error*
-- [My Famicase Exhibition](https://famicase.com/archives/index.html)
+-   Nathan Altice, selected chs. from *I Am Error*
+-   [My Famicase Exhibition](https://famicase.com/archives/index.html)
 
 **DEADLINE: Ludomusicology research report**
 
-***
+------------------------------------------------------------------------
 
 *Week 9* F 10/31
 
@@ -169,53 +177,53 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **Chipmusic**
 
-- McLaren, Malcolm. “[8-bit Punk](https://www.wired.com/2003/11/mclaren/)"  
-- Driscoll, Kevin, and Joshua Diaz. “[Endless Loop: A Brief History of Chiptunes.](http://dx.doi.org/10.3983/twc.2009.0096)”
-- Carlsson, Anders. “Chip Music: Low-Tech Data Music Sharing”
--  Israel Márquez, "Playing new music with old games: the chiptune  subculture"
+-   McLaren, Malcolm. “[8-bit Punk](https://www.wired.com/2003/11/mclaren/)"\
+-   Driscoll, Kevin, and Joshua Diaz. “[Endless Loop: A Brief History of Chiptunes.](http://dx.doi.org/10.3983/twc.2009.0096)”
+-   Carlsson, Anders. “Chip Music: Low-Tech Data Music Sharing”
+-   Israel Márquez, "Playing new music with old games: the chiptune subculture"
 
 Watch: *Europe in 8 Bits* (documentary, on Kanopy)
 
 **Soundtracks group 5**
 
-***
+------------------------------------------------------------------------
 
 *Week 10* F 11/07
 
 **8bit Reggae**
 
-- Nicolas Nova, [*8-Bit Reggae: Collision and Creolization*](https://volumique.com/shopv2/produit/8-bit-reggae-collision-and-creolization/)
+-   Nicolas Nova, [*8-Bit Reggae: Collision and Creolization*](https://volumique.com/shopv2/produit/8-bit-reggae-collision-and-creolization/)
 
 **Soundtracks group 6**
 
-***
+------------------------------------------------------------------------
 
 *Week 11* F 11/14
 
 **Black MIDI**
 
-- MIchael Connor, "[The Impossible Music of Black MIDI](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)"
-- Martin Roberts, "Beautiful Data: From the Touhou Project to Black MIDI"
+-   MIchael Connor, "[The Impossible Music of Black MIDI](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)"
+-   Martin Roberts, "Beautiful Data: From the Touhou Project to Black MIDI"
 
 **Soundtracks group 7**
 
-***
+------------------------------------------------------------------------
 
 *Week 12* F 11/21
 
 **Vocaloid**
 
-- Linh K. Le, "[Examining the Rise of Hatsune Miku: The First International Virtual Idol](https://bpb-us-w2.wpmucdn.com/wp.ovptl.uci.edu/dist/e/3/files/2023/09/2013_01_le.pdf)"
-- Peter Kirn, "[With Japan’s latest Vocaloid characters, another song from the future](https://cdm.link/heres-new-vocaloid-japanese-synthetic-singers-sound-like/)"
-- [OpenUtau](https://www.openutau.com/)
+-   Linh K. Le, "[Examining the Rise of Hatsune Miku: The First International Virtual Idol](https://bpb-us-w2.wpmucdn.com/wp.ovptl.uci.edu/dist/e/3/files/2023/09/2013_01_le.pdf)"
+-   Peter Kirn, "[With Japan’s latest Vocaloid characters, another song from the future](https://cdm.link/heres-new-vocaloid-japanese-synthetic-singers-sound-like/)"
+-   [OpenUtau](https://www.openutau.com/)
 
 **Soundtracks group 8**
 
-***
+------------------------------------------------------------------------
 
-*Week 13*  F 11/28 NO CLASS (Thanksgiving)
+*Week 13* F 11/28 NO CLASS (Thanksgiving)
 
-***
+------------------------------------------------------------------------
 
 *Week 14* F 12/05
 
@@ -223,13 +231,13 @@ Scene Reports
 
 **DEADLINE: Scene report paper**
 
-***
+------------------------------------------------------------------------
 
-*Week 15* 
+*Week 15*
 
 W 12/10 Last day of classes\
 R 12/11 Reading Day\
- F 12/12-18 Exam period\
+F 12/12-18 Exam period\
 
 ## Policies
 
