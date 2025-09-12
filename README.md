@@ -2,11 +2,7 @@
 title: 'Game Studies Seminar'
 ---
 
-::: {.content-visible when-format="html"}
-
 ![](img/europe-8bits3.jpg)
-
-::: {.column-margin}
 
 <small>[Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -173,10 +169,12 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **Chipmusic**
 
-- McLaren, Malcolm. “8-bit Punk"  
+- McLaren, Malcolm. “[8-bit Punk](https://www.wired.com/2003/11/mclaren/)"  
 - Driscoll, Kevin, and Joshua Diaz. “[Endless Loop: A Brief History of Chiptunes.](http://dx.doi.org/10.3983/twc.2009.0096)”
 - Carlsson, Anders. “Chip Music: Low-Tech Data Music Sharing”
 -  Israel Márquez, "Playing new music with old games: the chiptune  subculture"
+
+Watch: *Europe in 8 Bits* (documentary, on Kanopy)
 
 **Soundtracks group 5**
 
