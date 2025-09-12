@@ -5,11 +5,15 @@ project:
 
 website:
   title: "    "  
-  # sidebar:
-  #   search: false
-  #   style: "floating"
-  #   # collapse-level: 1
-  #   contents:
+  sidebar:
+    search: false
+    style: "floating"
+    collapse-level: 0
+    contents:
+    #     - text: "Home"
+    #       file: index.qmd
+        - text: Sources
+          file: bibliography.qmd
   #       - section: "Lectures"
   #         contents:
   #           # Weekly lectures will be added as needed
@@ -19,10 +23,11 @@ website:
   #             file: theory-narrative.qmd
   navbar:
     background: "#235440"
-    right:
-      - icon: github
-        aria-label: github
-        href: https://github.com/mroberts1/fsu-game-studies-fa25
+    search: false
+    # right:
+    #   - icon: github
+    #     aria-label: github
+    #     href: https://github.com/mroberts1/fsu-game-studies-fa25
       # - icon: twitter
       #   aria-label: twitter
       #   href: https://twitter.com/mroberts_fsu
@@ -38,12 +43,12 @@ format:
     css: custom.scss
     self-contained: false
     grid:
-        sidebar-width: 400px
-        body-width: 700px
-        margin-width: 200px
+        sidebar-width: 300px
+        body-width: 800px
+        margin-width: 300px
         gutter-width: 2em
     linestretch: 1.5
-    fontsize: 1.2em
+    fontsize: 1.1em
     smooth-scroll: true
     linkcolor: "#235440"
     title-block-banner: false
