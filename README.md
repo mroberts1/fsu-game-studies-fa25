@@ -1,8 +1,6 @@
----
-title: 'Game Studies Seminar'
----
+## Game Studies Seminar
 
-![](img/europe-8bits3.jpg)
+[![](img/europe-8bits3.jpg){width="95%"}](https://vimeo.com/91011679)
 
 <small>[Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -11,7 +9,7 @@ COMM 4000\
 Fri 5 Sept---Wed 10 Dec 2025\
 Conlon Hall 341\
 [Dr. Martin Roberts](https://mroberts1.github.io)</small>\
-<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ --> [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) <!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
+<!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ --> [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-game-studies-fa25) <!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
 
 :::
 
