@@ -59,7 +59,7 @@ bread-crumbs: false
 fig-responsive: true
 image-alt: " "
 execute:
-  freeze: auto
+  freeze: true
 # reference-location: margin
 # citation-location: margin
 editor: visual
