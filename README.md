@@ -8,10 +8,8 @@ COMM 4000\
 3 credits\
 Fri 5 Sept---Wed 10 Dec 2025\
 Conlon Hall 341\
-[Dr. Martin Roberts](https://mroberts1.github.io)</small>\
+[Dr. Martin Roberts](https://mroberts1.github.io)</small>
 <!-- [Syllabus](https://mroberts1.github.io/fsu-game-studies-fa25)\ --> <!-- [GitHub](https://github.com/mroberts1/fsu-game-studies-fa25)</small>\ --><!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
-
-:::
 
 <!-- :::: {.content-visible when-format="pdf"} -->
 
