@@ -9,28 +9,33 @@ website:
     search: false
     style: "floating"
     collapse-level: 0
-    contents:
-    #     - text: "Home"
-    #       file: index.qmd
-        - text: Sources
-          file: bibliography.qmd
+  #   contents:
+        # - text: "Soundtracks"
+        #   file: index.qmd
+        # - text: Sources
+        #   file: bibliography.qmd
   #       - section: "Lectures"
   #         contents:
   #           # Weekly lectures will be added as needed
-  #       - section: "Resources"
-  #         contents:
-  #           - text: Theory as Narrative
-  #             file: theory-narrative.qmd
+        # - section: "Soundtracks"
+        #   contents:
+        #     - text: Pokémon HeartGold & SoulSilver
+        #       file: pokemon.qmd
   navbar:
     background: "#235440"
     search: false
-    # right:
-    #   - icon: github
-    #     aria-label: github
-    #     href: https://github.com/mroberts1/fsu-game-studies-fa25
-      # - icon: twitter
-      #   aria-label: twitter
-      #   href: https://twitter.com/mroberts_fsu
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: Sources
+        file: bibliography.qmd
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/mroberts1/fsu-game-studies-fa25
+    # - icon: twitter
+    #   aria-label: twitter
+    #   href: https://twitter.com/mroberts_fsu
 format:
   html:
     # toc: false

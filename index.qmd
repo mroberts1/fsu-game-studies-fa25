@@ -79,8 +79,6 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 {{< video https://youtu.be/x6aNPsjNwFo >}}<br><br>
 
-{{< video https://youtu.be/49ZK_EVWIBM >}}
-
 :::
 
 - Andy Hofle, "[Arcade Ambience Project Info](https://arcade.hofle.com/)"
@@ -100,6 +98,18 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 *Week 4* F 09/26
 
+::: {.column-margin}
+
+{{< video https://youtu.be/49ZK_EVWIBM >}}<br>
+
+{{< video https://youtu.be/porGUuyxvJ4 width="300" >}}
+
+{{< video https://youtu.be/ttFoK8BTXM4 width="300" >}}
+
+{{< video https://youtu.be/xvrlcoLBW0o width="300" >}}
+
+:::
+
 **Toys**
 
 - Roger Moseley and Aya Saiki, “[Nintendo’s Art of Musical Play](pdf/nintendo-musical-play.pdf)”
@@ -113,7 +123,6 @@ Readings assignments will usually be available either as PDFs linked from the co
 **MIDI**
 
 ::: {.column-margin}
-<br><br><br><br>
 
 {{< video https://youtu.be/eQSAwuRf-Ng >}}
 
