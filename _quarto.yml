@@ -30,6 +30,12 @@ website:
       - text: Sources
         file: bibliography.qmd
     right:
+      - icon: envelope
+        aria-label: email
+        href: mailto:mrober40@fitchburgstate.edu
+      - icon: mastodon
+        aria-label: mastodon
+        href: https://merveilles.town/@dokoissho
       - icon: github
         aria-label: github
         href: https://github.com/mroberts1/fsu-game-studies-fa25
