@@ -106,7 +106,7 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 {{< video https://youtu.be/porGUuyxvJ4 width="300" >}}
 
-{{< video https://youtu.be/ttFoK8BTXM4 width="300" >}}
+<!-- {{< video https://youtu.be/ttFoK8BTXM4 width="300" >}} -->
 
 {{< video https://youtu.be/xvrlcoLBW0o width="300" >}}
 
@@ -124,11 +124,11 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **MIDI**
 
-::: {.column-margin}
+<!-- ::: {.column-margin} -->
 
-{{< video https://youtu.be/eQSAwuRf-Ng >}}
+<!-- {{< video https://youtu.be/eQSAwuRf-Ng >}} -->
 
-:::
+<!-- ::: -->
 
 - Winifred Philips, "Interactive Music in Games: Music Data" (in *A Composer's Guide to Game Music*)
 - Thom Holmes, Thom, and Terence M. Pender, "MIDI" in *Electronic and Experimental Music: Technology, Music, and Culture*
@@ -142,8 +142,18 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **Indie Game Music**
 
+::: {.column-margin}
+
+{{< video https://youtu.be/1Br9tnV9j_0 width="300" >}}
+
+{{< video https://youtu.be/JDMWIMcV6Gc width="300" >}}
+
+::::
+
+Alex Kane, "[Spending five years composing a game: The music from 'Below'](https://www.polygon.com/features/2018/12/24/18152360/jim-guthrie-the-music-from-below/) (*Polygon*, 24 December 2018)
+
 - [Jim Guthrie](https://jimguthrie.bandcamp.com/)
-- [Lena Raine](https://radicaldreamland.bandcamp.com/)
+- [Lena Raine](https://blog.radicaldream.land/about/)
 - [Will Bedford](https://willbedford.bandcamp.com/)
 
 **Soundtracks group 3**
