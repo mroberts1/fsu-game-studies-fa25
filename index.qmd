@@ -166,9 +166,17 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 **Commodore**
 
+::: {.column-margin}
+
+{{< video https://youtu.be/NHCxvZJW1S8 width="300" >}}
+
+{{< video https://vimeo.com/160319726 width="300" >}}
+
+::::
+
 - Collins, Karen. “[‘Loops and Bloops’: Music of the Commodore 64 Games](pdf/karen-collins-commodore64.pdf)”
 - [HVSC](https://www.hvsc.c64.org/) website
-- Documentary: *Viva Amiga*
+- [*Viva Amiga: The Documentary*](https://www.amazon.com/gp/video/detail/B01N1X82AU/ref=atv_dp_share_cu_r) (2017)
 - cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
 
 **Soundtracks group 4**

@@ -37,8 +37,7 @@ Phillips, Winifred. *A Composer's Guide to Game Music*. MIT Press, 2014.
 
 Schartmann, Andrew. *Koji Kondo’s Super Mario Bros. Soundtrack* (33⅓). Bloomsbury Academic, 2015.
 
-Summers, Tim. *Understanding Video Game Music*. Cambridge University Press, 2016.
----. *The Legend of Zelda: Ocarina of Time: A Game Music Companion*. Intellect Books, 2021.
+Summers, Tim. *Understanding Video Game Music*. Cambridge University Press, 2016. ---. *The Legend of Zelda: Ocarina of Time: A Game Music Companion*. Intellect Books, 2021.
 
 Sweet, Michael. *Writing Interactive Music for Video Games: A Composer's Guide*. Addison-Wesley, 2015.
 
@@ -112,8 +111,5 @@ Whalen, Zach. "Play Along: An Approach to Videogame Music." *Game Studies* 4, no
 
 Connor, Michael. "[The Impossible Music of Black MIDI.](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)" *Rhizome*, 23 September 2013.
 
-Kirn, Peter. "[MIDI Piano Roll Turned Into Platformer: Adventures of General MIDI](https://cdm.link/midi-piano-roll-turned-platformer-adventures-general-midi/)" (*Create Digital Music*, 27 May 2014)  
----. "[With Japan’s latest Vocaloid characters, another song from the future](https://cdm.link/heres-new-vocaloid-japanese-synthetic-singers-sound-like/)" (*Create Digital Music*, 14 July 2017). 
----. "[Inside the livecoding algorave movement, and what it says about music.](https://cdm.link/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/)" Create Digital Music (blog), 29 May 2018.
-
-
+Kirn, Peter. "[MIDI Piano Roll Turned Into Platformer: Adventures of General MIDI](https://cdm.link/midi-piano-roll-turned-platformer-adventures-general-midi/)" (*Create Digital Music*, 27 May 2014)\
+---. "[With Japan’s latest Vocaloid characters, another song from the future](https://cdm.link/heres-new-vocaloid-japanese-synthetic-singers-sound-like/)" (*Create Digital Music*, 14 July 2017). ---. "[Inside the livecoding algorave movement, and what it says about music.](https://cdm.link/inside-the-livecoding-algorave-movement-and-what-it-says-about-music/)" Create Digital Music (blog), 29 May 2018.
