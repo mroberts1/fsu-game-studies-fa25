@@ -124,11 +124,11 @@ Readings assignments will usually be available either as PDFs linked from the co
 
 **MIDI**
 
-<!-- ::: {.column-margin} -->
+::: {.column-margin}
 
-<!-- {{< video https://youtu.be/eQSAwuRf-Ng >}} -->
+{{< video https://youtu.be/eQSAwuRf-Ng >}}
 
-<!-- ::: -->
+:::
 
 - Winifred Philips, "Interactive Music in Games: Music Data" (in *A Composer's Guide to Game Music*)
 - Thom Holmes, Thom, and Terence M. Pender, "MIDI" in *Electronic and Experimental Music: Technology, Music, and Culture*
@@ -166,7 +166,7 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 **Commodore**
 
-- Collins, Karen. “‘Loops and Bloops’: Music of the Commodore 64 Games”
+- Collins, Karen. “[‘Loops and Bloops’: Music of the Commodore 64 Games](pdf/karen-collins-commodore64.pdf)”
 - [HVSC](https://www.hvsc.c64.org/) website
 - Documentary: *Viva Amiga*
 - cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
