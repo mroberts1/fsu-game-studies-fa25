@@ -168,9 +168,15 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 ::: {.column-margin}
 
-{{< video https://youtu.be/NHCxvZJW1S8 width="300" >}}
+{{< video https://youtu.be/O2rlvAyj2PA width="300" >}}
 
-{{< video https://vimeo.com/160319726 width="300" >}}
+{{< video https://youtu.be/nqsrWwa_GZE width="300" >}}
+
+{{< video https://youtu.be/6BOXR008V2I width="300" >}}
+
+{{< video https://youtu.be/YsorGbKwNlA width="300" >}}
+
+<!-- {{< video https://youtu.be/rHjUJNYD_GY width="300" >}} -->
 
 ::::
 
@@ -178,6 +184,7 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 - [HVSC](https://www.hvsc.c64.org/) website
 - [*Viva Amiga: The Documentary*](https://www.amazon.com/gp/video/detail/B01N1X82AU/ref=atv_dp_share_cu_r) (2017)
 - cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
+- [cTrix modules](https://modarchive.org/index.php?request=view_artist_modules&query=80387)
 
 **Soundtracks group 4**
 
