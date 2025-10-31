@@ -61,6 +61,10 @@ Readings assignments will usually be available either as PDFs linked from the co
 - [TOPLAP](https://blog.toplap.org/)
 <!-- - [Jahtari](https://jahtari.org/) -->
 
+## Documentaries
+
+- [*8-Bit Generation: The Commodore Wars*](https://www.8bitgeneration.com/) (Tomaso Walliser, 2016)
+
 ## Schedule
 
 *Week 1* F 09/05
@@ -181,6 +185,9 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 ::::
 
 - Collins, Karen. “[‘Loops and Bloops’: Music of the Commodore 64 Games](pdf/karen-collins-commodore64.pdf)”
+- [C64 history](https://jahtari.org/archive/magazine/sid/c64-history.htm) (Jahtari site)
+- [Gamebase64](https://gb64.com/) (C64 games)
+- [Commodore 64](https://www.commodore.ca/) (portal)
 - [HVSC](https://www.hvsc.c64.org/) website
 - [*Viva Amiga: The Documentary*](https://www.amazon.com/gp/video/detail/B01N1X82AU/ref=atv_dp_share_cu_r) (2017)
 - cTrix, [*A for Amiga*](https://bleepstreet.bandcamp.com/album/a-for-amiga)
@@ -195,6 +202,7 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 **Famicom**
 
 - Nathan Altice, "[Family Computer](pdf/nathan-altice-famicom-ch0.pdf)" (*I Am Error*, chapter 0)
+- Nick Montfort and Ian Bogost, "[Afterword on Platform Studies](pdf/montfort-bogost-platform-studies.pdf)"
 - [My Famicase Exhibition](https://famicase.com/archives/index.html)
 
 **DEADLINE: Ludomusicology research report**
@@ -219,6 +227,20 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 *Week 10* F 11/07
 
 **8bit Reggae**
+
+<!-- ::: {.column-margin} -->
+
+<!-- {{< video https://youtu.be/XYUmWKPeTOY width="300" >}} -->
+
+<!-- {{< video https://youtu.be/m65uM__g_9E width="300" >}} -->
+
+<!-- {{< video https://youtu.be/T-oTRAOVEYc width="300" >}} -->
+
+<!-- {{< video https://youtu.be/cOoeLo-AX5E width="300">}} -->
+
+<!-- {{< video https://youtu.be/SMqXD5Wm5oc width="300" >}} -->
+
+<!-- ::: -->
 
 - Nicolas Nova, [*8-Bit Reggae: Collision and Creolization*](https://volumique.com/shopv2/produit/8-bit-reggae-collision-and-creolization/)
 
