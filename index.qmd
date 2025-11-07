@@ -215,10 +215,10 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 **Chipmusic**
 
-- McLaren, Malcolm. “8-bit Punk"  
-- Driscoll, Kevin, and Joshua Diaz. “[Endless Loop: A Brief History of Chiptunes.](http://dx.doi.org/10.3983/twc.2009.0096)”
-- Carlsson, Anders. “Chip Music: Low-Tech Data Music Sharing”
--  Israel Márquez, "Playing new music with old games: the chiptune  subculture"
+- McLaren, Malcolm. “[8-bit Punk](https://www.wired.com/2003/11/mclaren/)"  
+- Driscoll, Kevin, and Joshua Diaz. “[Endless Loops: A Brief History of Chiptunes](pdf/driscoll-endless-loop.pdf)”
+- Carlsson, Anders. “[Chip Music: Low-Tech Data Music Sharing](pdf/carlsson-chip-music.pdf)”
+- Israel Márquez, "[Playing new music with old games: the chiptune  subculture](pdf/israel-marquez-chipmusic.pdf)"
 
 **Soundtracks group 5**
 
