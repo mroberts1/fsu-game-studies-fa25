@@ -178,7 +178,7 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 {{< video https://youtu.be/6BOXR008V2I width="300" >}}
 
-{{< video https://youtu.be/YsorGbKwNlA width="300" >}}
+<!-- {{< video https://youtu.be/YsorGbKwNlA width="300" >}} -->
 
 <!-- {{< video https://youtu.be/rHjUJNYD_GY width="300" >}} -->
 
@@ -215,12 +215,17 @@ Alex Kane, "[Spending five years composing a game: The music from 'Below'](https
 
 **Chipmusic**
 
+::: {.column-margin}
+
+{{< video https://youtu.be/iRkZcTg1JWU width="300" >}}
+
+:::
+
 - McLaren, Malcolm. “[8-bit Punk](https://www.wired.com/2003/11/mclaren/)"  
 - Driscoll, Kevin, and Joshua Diaz. “[Endless Loops: A Brief History of Chiptunes](pdf/driscoll-endless-loop.pdf)”
 - Carlsson, Anders. “[Chip Music: Low-Tech Data Music Sharing](pdf/carlsson-chip-music.pdf)”
 - Israel Márquez, "[Playing new music with old games: the chiptune  subculture](pdf/israel-marquez-chipmusic.pdf)"
-
-**Soundtracks group 5**
+- [*Moleman 2---Demoscene---The Art of the Algorithms*](https://youtu.be/iRkZcTg1JWU) (YouTube)
 
 ***
 
